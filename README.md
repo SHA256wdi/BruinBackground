@@ -1,5 +1,6 @@
 # Prework - Bruin Background
 Submitted by: Shawdi Sani
+
 Bruin Background is an app that tells the user a little bit about my personal background and changes the literal background color when the user presses a button in the Bruin Bear.
 Time spent: 5 hours spent in total, a good portion of this time was reading and researching Swift using Apple and CodePath’s Swift Guides and watching YouTube videos.
 ## Required Features
